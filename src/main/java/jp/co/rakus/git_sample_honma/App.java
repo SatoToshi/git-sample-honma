@@ -2,7 +2,7 @@ package jp.co.rakus.git_sample_honma;
 
 /**
  * Hello world!
- *
+ *@author admister
  */
 public class App 
 {
